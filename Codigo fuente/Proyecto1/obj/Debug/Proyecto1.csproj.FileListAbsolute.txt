@@ -1,0 +1,28 @@
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csprojResolveAssemblyReference.cache
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form1.resources
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.Cache
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Codigo fuente\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Codigo fuente\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Codigo fuente\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.csprojResolveAssemblyReference.cache
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.Form1.resources
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.Cache
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\Ruth Lechuga\Desktop\[LFP]Proyecto_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Proyecto1_201602975\Codigo fuente\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Proyecto1_201602975\Codigo fuente\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Proyecto1_201602975\Codigo fuente\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Proyecto1_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.csprojResolveAssemblyReference.cache
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Proyecto1_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.Form1.resources
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Proyecto1_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Proyecto1_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.Cache
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Proyecto1_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Proyecto1_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Proyecto1_201602975\Codigo fuente\Proyecto1\obj\Debug\Proyecto1.pdb
